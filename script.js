@@ -107,7 +107,6 @@ render = () => {
 };
 
 //---------Execution--------
-initConfetti();
 render();
 
 //----------Resize----------
